@@ -11,7 +11,7 @@
       *  BASED ON MONTHLY SALES RATES                                  *
       *                                                                *
       ******************************************************************
-      *
+      * 20.05.02
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
