@@ -16,7 +16,6 @@
       *                                                                *
       *                                                                *
       ******************************************************************
-      * 20.05.02
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
