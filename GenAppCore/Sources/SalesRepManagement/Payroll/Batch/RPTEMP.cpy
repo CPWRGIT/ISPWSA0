@@ -1,7 +1,6 @@
 ********
 ********  EMPLOYEE REPORT RECORD LAYOUTS.
 ********
-      * 10:23                                                          *
        01  EMPLOYEE-HDR1.
            05  FILLER      PIC X         VALUE SPACES.
            05  FILLER      PIC X(10)
