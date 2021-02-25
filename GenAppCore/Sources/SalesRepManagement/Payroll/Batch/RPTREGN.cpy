@@ -1,6 +1,7 @@
 ********
 ********  REGION RECORD LAYOUTS.
 ********
+********
        01  REGION-HDR1.
            05  FILLER      PIC X      VALUE SPACES.
            05  FILLER      PIC X(10)  VALUE 'RUN DATE  '.
