@@ -9,6 +9,7 @@
       *                                                                *
       ******************************************************************
       * 20.06.01
+      *VSC
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
