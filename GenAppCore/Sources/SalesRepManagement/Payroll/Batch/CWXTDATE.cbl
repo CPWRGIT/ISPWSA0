@@ -9,7 +9,7 @@
       *                                                                *
       ******************************************************************
       * 20.06.01
-      *VSC +1
+      *VSC interface
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
