@@ -17,6 +17,7 @@
       *                                                                *
       ******************************************************************
       * 20.06.01 Workbench
+      *New email address
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
