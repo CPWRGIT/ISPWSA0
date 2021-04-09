@@ -147,7 +147,7 @@
            05  OT-AMOUNT             PIC 9(5)V99    COMP-3.
            05  OT-HOURS              PIC 9(2).
 
-       COPY EMPFILE.
+        COPY LOADPRSE.
 
 *********
 *********  EMPLOYEE COMPENSATION REPORT
