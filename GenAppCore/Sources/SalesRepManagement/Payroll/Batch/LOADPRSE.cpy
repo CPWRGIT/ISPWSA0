@@ -3,6 +3,7 @@
 ********  BASED ON ONE OF THE 3 EMPLOYEE TYPES, HOURLY, SALES OR
 ********  MANAGEMENT.
 ********
+      * Latest version 
        01  EMPLOYEE-WORK-AREA.
            05  WA-EMP-NUM            PIC 9(5).
            05  WA-EMP-TYPE           PIC X.
