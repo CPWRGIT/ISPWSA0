@@ -17,7 +17,7 @@
       *                                                                *
       ******************************************************************
       * 20.06.01 Workbench
-      *New email address
+      * Using new copybook
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
