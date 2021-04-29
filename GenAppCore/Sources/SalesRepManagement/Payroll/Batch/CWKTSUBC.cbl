@@ -8,6 +8,7 @@
       *  XPEDITER/TSO TRAINING SESSIONS.                               *
       *                                                                *
       ******************************************************************
+      * With Db2
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
