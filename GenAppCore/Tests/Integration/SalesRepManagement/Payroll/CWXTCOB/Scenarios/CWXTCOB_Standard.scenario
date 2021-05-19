@@ -13,9 +13,8 @@ Not working yet:&#xD;
 Store expected RPFILE data locally and restore to mainframe</Description>
   <Test>
     <Scope name="Config" disabled="false">
-      <Variable id="userid">HDDRXM0</Variable>
-      <Variable id="ispw_app">GITE</Variable>
-      <Variable id="ispw_level">FT1</Variable>
+      <Variable id="userid">ISPWSA0</Variable>
+      <Variable id="ispw_app">GITC</Variable>
     </Scope>
     <Scope name="Initialize" disabled="false">
       <Scope name="Variable Set Up" disabled="false">
@@ -163,7 +162,7 @@ $$DD01 COMPARE
  SSID=MXG1                                                                     
  TYPE=BATCH                                                                    
  FORMAT=DATETIME                                                               
- D HDDRXM0E XATEST   *        *        N 2019/12/09                            
+ D ISPWSA0E XATEST   *        *        N 2019/12/09                            
 //*]]></Content>
       </Job>
     </Scope>
