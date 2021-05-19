@@ -16,7 +16,7 @@
       *                                                                *
       *                                                                *
       ******************************************************************
-      * 20.06.01 Workbench
+      * 20.06.02 Workbench
       * Using new copybook
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
