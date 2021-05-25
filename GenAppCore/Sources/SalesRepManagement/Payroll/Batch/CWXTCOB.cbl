@@ -17,6 +17,7 @@
       *                                                                *
       ******************************************************************
       * 20.06.02 Workbench
+      * Latest pipeline
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
