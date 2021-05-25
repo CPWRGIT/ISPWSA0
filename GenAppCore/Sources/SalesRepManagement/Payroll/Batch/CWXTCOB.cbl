@@ -17,7 +17,6 @@
       *                                                                *
       ******************************************************************
       * 20.06.02 Workbench
-      *Busy pipeline
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
