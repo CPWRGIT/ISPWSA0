@@ -9,6 +9,7 @@
       *                                                                *
       ******************************************************************
       * 20.07.01 CWCC with IWG381A & TAWS
+      *CES password change
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
