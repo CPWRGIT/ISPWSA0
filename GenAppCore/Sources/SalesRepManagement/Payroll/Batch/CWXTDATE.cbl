@@ -10,6 +10,7 @@
       ******************************************************************
       * 20.07.01 CWCC with IWG381A & TAWS
       *CES password change
+      *Jenkins password changed
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
