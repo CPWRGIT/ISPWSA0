@@ -1,10 +1,10 @@
 !!com.compuware.ispw.wzzms.models.IspwRoot
 ispwApplication:
-  host: cwc2.compuware.com
+  host: cwcc.compuware.com
   port: 16196
   runtimeConfig: ispw
   stream: GITDEMO1
-  application: GITA
+  application: GITC
   pathMappings:
   - path: "**/Sources/**"
     types:
