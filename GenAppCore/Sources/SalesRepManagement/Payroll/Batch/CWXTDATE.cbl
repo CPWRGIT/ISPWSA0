@@ -10,7 +10,7 @@
       ******************************************************************
       * 20.07.01 CWCC with IWG381A & TAWS
       *CES password change
-      *GitHub
+      *GitHub credentials
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
