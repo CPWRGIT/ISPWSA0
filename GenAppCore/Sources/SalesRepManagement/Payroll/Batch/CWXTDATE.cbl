@@ -9,6 +9,7 @@
       *                                                                *
       ******************************************************************
       *
+      *
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
