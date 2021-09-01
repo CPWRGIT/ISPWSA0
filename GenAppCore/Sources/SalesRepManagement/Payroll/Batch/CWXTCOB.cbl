@@ -18,7 +18,7 @@
       ******************************************************************
       * 20.06.02 Workbench
       * Latest pipeline
-      *VSC
+      * Westpac demo
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
