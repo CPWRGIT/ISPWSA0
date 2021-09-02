@@ -16,9 +16,7 @@
       *                                                                *
       *                                                                *
       ******************************************************************
-      * 20.06.02 Workbench
-      * Latest pipeline
-      * Westpac demo
+      * Digital.ai release
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
