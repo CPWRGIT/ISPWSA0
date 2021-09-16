@@ -16,7 +16,7 @@
       *                                                                *
       *                                                                *
       ******************************************************************
-      * Digital.ai release
+      * mBank
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
