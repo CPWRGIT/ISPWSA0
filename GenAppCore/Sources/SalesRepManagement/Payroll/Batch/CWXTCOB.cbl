@@ -16,7 +16,7 @@
       *                                                                *
       *                                                                *
       ******************************************************************
-      * Tony take 2
+      * Nedbank
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
