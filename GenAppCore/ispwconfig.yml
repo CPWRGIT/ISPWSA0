@@ -31,4 +31,4 @@ ispwApplication:
   - path: "**/Sources/**"
     types:
     - fileExtension: proc
-      ispwType: JOB
+      ispwType: PROC
