@@ -28,3 +28,7 @@ ispwApplication:
     - fileExtension: pli
       ispwType: PLI
       progType: 'Yes'
+  - path: "**/Sources/**"
+    types:
+    - fileExtension: proc
+      ispwType: JOB
