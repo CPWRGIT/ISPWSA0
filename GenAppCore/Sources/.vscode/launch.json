@@ -16,7 +16,7 @@
             "IMS": false,
             "stopOnEntry": true,
             "trace": true,
-            "profileName": "cwc2"
+            "profileName": "cwc2hci"
         }
     ]
 }
