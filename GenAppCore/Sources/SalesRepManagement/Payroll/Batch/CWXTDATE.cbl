@@ -8,7 +8,7 @@
       *  FOR XPEDITER/TSO TRAINING SESSIONS                            *
       *                                                                *
       ******************************************************************
-      * Senor Sigler
+      *TAWS 20.10 
       *
        ENVIRONMENT DIVISION.
        DATA DIVISION.

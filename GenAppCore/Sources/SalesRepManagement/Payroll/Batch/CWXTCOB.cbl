@@ -16,7 +16,7 @@
       *                                                                *
       *                                                                *
       ******************************************************************
-      * Nedbank
+      * TAWS 20.10.01 with password change on HCI
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
