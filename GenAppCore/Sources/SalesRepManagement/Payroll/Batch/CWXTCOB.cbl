@@ -16,7 +16,7 @@
       *                                                                *
       *                                                                *
       ******************************************************************
-      * TAWS 20.10.01
+      * TAWS 20.10.01 with password change
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
