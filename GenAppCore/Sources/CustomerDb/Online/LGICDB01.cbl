@@ -37,6 +37,7 @@
       *                                   AND A FETCH COLUMN VARIABLE  *
       *                                                                *
       ******************************************************************
+      * chnage made in GitHub.com
        IDENTIFICATION DIVISION.
        PROGRAM-ID. LGICDB01.
        ENVIRONMENT DIVISION.
