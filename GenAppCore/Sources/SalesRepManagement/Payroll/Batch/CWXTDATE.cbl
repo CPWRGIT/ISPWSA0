@@ -8,7 +8,7 @@
       *  FOR XPEDITER/TSO TRAINING SESSIONS                            *
       *                                                                *
       ******************************************************************
-      *TAWS 20.10 
+      *TAWS 20.10.01  
       *
        ENVIRONMENT DIVISION.
        DATA DIVISION.
