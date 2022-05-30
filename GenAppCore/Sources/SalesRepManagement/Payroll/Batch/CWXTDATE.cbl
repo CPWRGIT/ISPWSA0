@@ -8,7 +8,7 @@
       *  FOR XPEDITER/TSO TRAINING SESSIONS                            *
       *                                                                *
       ******************************************************************
-      *TAWS 20.10 
+      *Change user name & email
       *
        ENVIRONMENT DIVISION.
        DATA DIVISION.
