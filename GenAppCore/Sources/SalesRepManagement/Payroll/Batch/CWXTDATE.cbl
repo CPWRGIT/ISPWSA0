@@ -8,7 +8,7 @@
       *  FOR XPEDITER/TSO TRAINING SESSIONS                            *
       *                                                                *
       ******************************************************************
-      *TAWS persistance
+      *Change user name & email
       *
        ENVIRONMENT DIVISION.
        DATA DIVISION.
