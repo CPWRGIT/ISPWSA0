@@ -9,7 +9,7 @@
       *                                                                *
       ******************************************************************
       *Change user name & email
-      *
+      * New mainframe password
        ENVIRONMENT DIVISION.
        DATA DIVISION.
        WORKING-STORAGE SECTION.
