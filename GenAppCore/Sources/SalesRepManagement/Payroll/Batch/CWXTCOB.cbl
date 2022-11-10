@@ -17,7 +17,7 @@
       *                                                                *
       ******************************************************************
       * TAWS 20.10.01 with password change on HCI
-      * Test the latest CLI with a freshly cloned repo
+      * New mainframe password
        ENVIRONMENT DIVISION.
        INPUT-OUTPUT SECTION.
        FILE-CONTROL.
